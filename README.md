@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rahulku72949506" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulku72949506?logo=twitter&style=for-the-badge" alt="@rahulku72949506" /></a> </p>
 
-- 💬 Ask me about **Web Developement,MEARN**
+- 💬 Ask me about **Web Developement,MERN**
 
 - 📫 How to reach me **gitad7405@gmail.com**
 
